@@ -46,3 +46,5 @@ Remember, darknet navigation carries risks. Prioritize security, remain aware of
 ### Disclaimer:
 
 This guide is for educational purposes only. The information is to help understand darknet operations. We do not endorse any illegal activities. Always comply with your local laws.
+
+Update:  Wednesday 01 October 2025
